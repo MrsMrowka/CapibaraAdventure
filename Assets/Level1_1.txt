@@ -1,0 +1,63 @@
+Klawisze; a;a;a;a; ; ; ;d;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;d;d;d;d;d;s;s;
+Czas; 00:10
+Stracone HP; 3
+Wyleczone HP; 0
+Zabici przeciwnicy; 0
+Zebrane diamenty; 0
+Użyty podwójny skok; 0
+Użyty mały skok; 3
+Użyty duży skok; 0
+Użyty mały skok z skoczni; 0
+Użyty duży skok z skoczni; 0
+Użyty ślizg po ścianie; 0
+Użyty skok od ściany; 0
+Użyte kucanie; 2
+Dotknięcie kolców; 1
+Dotknięcie wody; 0
+Dotknięcie pocisków; 0
+Użyta drabina; 0
+Użyty przycisk na podłodze; 0
+Dotknięcie pudełka; 0
+Dotknięcie przeciwnika; 5
+Klawisze; a; ; ; ; ; ; ;a;w;d;a;d; ;a;d; ;a;d; ; ;d; ;d; ;d; ; ; ; ; ;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d; ;d;d;d;d;d; ; ;a;d; ;a;d;a; ; ;a; ; ;a; ;a; ;
+Czas; 00:53
+Stracone HP; 0
+Wyleczone HP; 0
+Zabici przeciwnicy; 1
+Zebrane diamenty; 0
+Użyty podwójny skok; 3
+Użyty mały skok; 33
+Użyty duży skok; -2
+Użyty mały skok z skoczni; 0
+Użyty duży skok z skoczni; 2
+Użyty ślizg po ścianie; 8
+Użyty skok od ściany; 0
+Użyte kucanie; 0
+Dotknięcie kolców; 0
+Dotknięcie wody; 0
+Dotknięcie pocisków; 0
+Użyta drabina; 8
+Użyty przycisk na podłodze; 2
+Dotknięcie pudełka; 179
+Dotknięcie przeciwnika; 0
+Klawisze; a;a; ;d;a; ;a; ; ; ; ;w;d;d; ; ; ;d; ;a;d; ;a;d; ; ;a;
+Czas; 01:18
+Stracone HP; 3
+Wyleczone HP; 0
+Zabici przeciwnicy; 2
+Zebrane diamenty; 0
+Użyty podwójny skok; 5
+Użyty mały skok; 25
+Użyty duży skok; -2
+Użyty mały skok z skoczni; 0
+Użyty duży skok z skoczni; 1
+Użyty ślizg po ścianie; 113
+Użyty skok od ściany; 0
+Użyte kucanie; 0
+Dotknięcie kolców; 0
+Dotknięcie wody; 1
+Dotknięcie pocisków; 0
+Użyta drabina; 1
+Użyty przycisk na podłodze; 0
+Dotknięcie pudełka; 138
+Dotknięcie przeciwnika; 0

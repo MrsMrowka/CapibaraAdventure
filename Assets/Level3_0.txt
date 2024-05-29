@@ -1,0 +1,21 @@
+Klawisze; a;a;a;a; ; ; ; ; ;w; ;a;d;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a; ; ;d; ; ; ; ;d; ;a;d; ;d; ;d; ;d; ;a;d; ; ; ;w; ;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d; ; ;d; ; ; ;
+Czas; 00:45
+Stracone HP; 1
+Wyleczone HP; 0
+Zabici przeciwnicy; 0
+Zebrane diamenty; 0
+Użyty podwójny skok; 8
+Użyty mały skok; 29
+Użyty duży skok; -3
+Użyty mały skok z skoczni; 0
+Użyty duży skok z skoczni; 0
+Użyty ślizg po ścianie; 0
+Użyty skok od ściany; 0
+Użyte kucanie; 0
+Dotknięcie kolców; 1
+Dotknięcie wody; 3
+Dotknięcie pocisków; 0
+Użyta drabina; 1
+Użyty przycisk na podłodze; 4
+Dotknięcie pudełka; 6
+Dotknięcie przeciwnika; 0
